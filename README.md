@@ -85,7 +85,7 @@ Note: Make sure you're logged into your GitHub account. If you don't have one, y
 Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
-valentineName: "Jade"                    // Your Valentine's name
+valentineName: "Erkhsaran"                    // Your Valentine's name
 pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
 
 // Floating Background Elements
@@ -97,14 +97,14 @@ floatingEmojis: {
 // Questions and Buttons
 questions: {
     first: {
-        text: "Do you like me?",                   // First question
-        yesBtn: "Yes",                             // Yes button text
-        noBtn: "No",                               // No button text
-        secretAnswer: "I don't like you, I love you! ❤️"  // Hidden message
+        text: "Ci nadad durtai yu?",                   // First question
+        yesBtn: "Tiim",                             // Yes button text
+        noBtn: "Ugui",                               // No button text
+        secretAnswer: "Bi chamd durgue, Bi chamd hairtai! ❤️"  // Hidden message
     },
     second: {
-        text: "How much do you love me?",          // Second question
-        startText: "This much!",                   // Text before percentage
+        text: "Ci nadad her ih hairtai ym?",          // Second question
+        startText: "Iim ih!",                   // Text before percentage
         nextBtn: "Next ❤️"                         // Next button text
     },
     third: {
@@ -116,14 +116,14 @@ questions: {
 
 // Love Meter Messages
 loveMessages: {
-    extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows above 5000%
-    high: "To infinity and beyond! 🚀💝",              // Shows above 1000%
-    normal: "And beyond! 🥰"                           // Shows above 100%
+    extreme: "WAAAA ci nda iim ih hairtaimu?? 🥰🚀💝",  // Shows above 5000%
+    high: "Ndad ch ih hairtai ym shig bn shu! 🚀💝",              // Shows above 1000%
+    normal: "RAHHHHHH! 🥰"                           // Shows above 100%
 }
 
 // Final Celebration
 celebration: {
-    title: "Yay! I'm the luckiest person...",     // Celebration title
+    title: "Yay! Bi ene delhiin hamgiin az jargaltai hun!!!",     // Celebration title
     message: "Now come get your gift...",          // Celebration message
     emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
 }
